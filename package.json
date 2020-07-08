@@ -1,7 +1,8 @@
 {
-  "name": "untitled2",
+  "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Saikat-Das-Roddur.github.io/monster-rolodex/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
