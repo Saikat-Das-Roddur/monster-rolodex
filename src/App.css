@@ -1,5 +1,13 @@
-body{
-  margin: 0,auto;
-  display: block;
-  align-content: center;
+body {
+  padding: 30px auto;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
 }
