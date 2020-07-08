@@ -19,9 +19,7 @@ class App extends Component {
     
     return (
       <div className="App">
-      <CardList
-      monster = {this.state.monsters}/>
-     
+      <CardList monster = {this.state.monsters}/>
       </div>
     );
   }
